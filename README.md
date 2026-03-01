@@ -19,3 +19,8 @@ Hardware: Raspberry pi, Raspberry pi touch Display, Arduino (C++), Servo/Motor
 │   └── index.html      # Web dashboard UI
 └── ArduinoCode/
     └── PetFeeder.ino   # Firmware for the Arduino board
+
+📸 Project Evidence
+You can view photos, videos, and documentation of the assembly and testing process here:
+[📂 View Evidence Folder on Google Drive]
+https://drive.google.com/drive/folders/1_sJNbqA_HV3o2L9xA55MCM88EcESpQsp?usp=sharing
